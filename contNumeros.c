@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <locale.h>
-#define TAM 500
+#define TAM 3000 //500, 1000, 1500, 2000, 2500 também foram valores utilizados
 
 main()
 {
@@ -14,7 +14,8 @@ main()
 		cont++;
 	}
 	
+	printf("Último Número: %d\n", aux);
 	printf("Contagem: %d\n", cont);
 	
-	system("PAUSE");
+	//system("PAUSE");
 }

@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <locale.h>
-#define TAM 8
+#define TAM 10
 
 main()
 {

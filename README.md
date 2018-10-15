@@ -5,4 +5,6 @@ Primeiro Commit:
   Além desse, foi feito o upload de um arquivo C com programa random para encher os próximos arquivos .txt
 Segundo Commit:
   Foi feito a criação dos arquivos de ordenação Bolha, Inserção e Seleção. Ainda não está implantado o clock para marcar o tempo de execução da ordenação.
-  
+Terceiro Commit:
+  Foi feito a criação dos arquivos de ordenação Quick, Radix e Heap. Ainda não está implantado o clock.
+  A ordenação Merge está com problemas e será revisada antes de fazer o upload.
